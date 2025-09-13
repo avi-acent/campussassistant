@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to campussassistant
 
 ## Project info
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project] (https://campussassistant.lovable.app/) and start prompting.
+Simply visit the (https://campussassistant.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
